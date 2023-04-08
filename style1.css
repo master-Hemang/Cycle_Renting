@@ -18,7 +18,7 @@ body {
   font-size: 7mm;
   font-family: Montserrat sans-serif;
   }
-  loginform {
+  .loginform {
     border: solid;
     box-sizing: border-box;
     padding: 2rem;
