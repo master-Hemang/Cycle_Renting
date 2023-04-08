@@ -1,34 +1,35 @@
 <!DOCTYPE html>
-<html lang ="en";
-<head>
+<html lang ="en">
+ <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>login</title>
     <link rel ="stylesheet" href="style1.css">
 
    
 </head>
 <body >
-    <h1>Rent your bicycles</h1>
-    <form>
-        <label for="fname" >First name :</label>
-        <input type="text" id="fname" name="fname">
-        <label for="lname">Last name :</label>
-        <input type="text" id="lname" name="lname">
-        <label for="fname">Rate per hour :</label>
-        <input type="text" id="fname" name="fname">
-        <label for="lname">Selling price :</label>
-        <input type="text" id="lname" name="lname">
+    <h1>Rent your Bicycles</h1>
+    <form class="loginform">
+        <label class="form-item"  for="fname" >First name :</label>
+        <input class="form-item" type="text" id="fname" name="fname">
+        <label class="form-item" for="lname">Last name :</label>
+        <input class="form-item" type="text" id="lname" name="lname">
+        <label class="form-item" for="fname">Rate per hour :</label>
+        <input class="form-item" type="text" id="fname" name="fname">
+        <label class="form-item" for="lname">Selling price :</label>
+        <input class="form-item" type="text" id="lname" name="lname">
 
-
- <p><b> Your bicycle type</b> </p><br>
-  <input type="radio" id="html" name="fav_language" value="HTML">
-  <label for="html">One-seater</label>
-  <input type="radio" id="css" name="fav_language" value="CSS">
-  <label for="css">Two-seater</label>
-  <label for="img" ><b>Select image:</b></label>
-  <input type="file" id="img" name="img"  accept="image/*">
+ <h2 class="form-item bicycle"> Bicycle type </h2>
+ <br>
+ <label class="form-item" for="html">One-seater</label>
+  <input class="form-item" type="radio" id="html" name="fav_language" value="HTML">
+  <label class="form-item" for="css">Two-seater</label>
+  <input class="form-item" type="radio" id="css" name="fav_language" value="CSS">
+  
+  <label class="form-item" for="img" ><b>Select image:</b></label>
+  <input class="form-item" type="file" id="img" name="img"  accept="image/*">
   </form>
-  <button >Submit </button>
+  <button class="button" >Submit </button>
 </body>
