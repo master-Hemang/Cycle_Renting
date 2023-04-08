@@ -1,0 +1,14 @@
+p{
+    color: rgb(215, 25, 11);
+    font-size: 5ch;
+}
+h1{
+  font-size: 25 mm;
+}
+body {
+    background-image: url(https://images.pexels.com/photos/1595483/pexels-photo-1595483.jpeg?cs=srgb&dl=pexels-adam-dubec-1595483.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+  font-size: 7mm;
+  }
