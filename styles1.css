@@ -1,0 +1,91 @@
+body{
+    background-color: #A4BC92;
+
+}
+/* navbar-section  */
+.navbar{
+    background-color: #C7E9B0;
+}
+.navbar-left{
+    padding-right: 20%;
+}
+.navbar-middle{
+    padding-right: 10%;
+    padding-left: 17%;
+    color:aqua;
+    font-family: Montserrat sans-serif;
+}
+.navbar-right{
+    padding-left: 20%;
+}
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-weight: bold;
+}
+
+/* Html elements h1 h2 h3 h4 h5 h6 p */
+h2{
+    font-family: Montserrat sans-serif;
+}
+p{
+    text-align: left;
+}
+/*  background-image */
+.top-left{
+    color: white;
+}
+.bg-image-1{
+ width: 1300px;
+ 
+}
+.bg-image-1-container {
+ position: relative;
+  
+    color: white;
+  }
+  .top-left {
+    position: absolute;
+    padding-top: 10%;
+    top: 8px;
+    left: 16px;
+  }
+
+  /* Aboutus- section */
+
+.Aboutus{
+    text-align: center;
+    padding: 3% 15% ;
+    background-color: #A4BC92; 
+}
+.Aboutus-para{
+padding: 10% 0;
+}
+
+/* Testimonials */
+#testimonials {
+    padding: auto;
+}
+.Testimonials{
+text-align: center;
+}
+.testimonial-image {
+ 
+    width: 10%;
+    margin: 20px;
+  }
+.carousel-item{
+    padding: 3% 15%;
+}
+
+/* footer  */
+.white-section{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #B3C99C;
+    padding: auto;
+}
+.social-icon {
+    margin: 20px 10px;
+  }
+
