@@ -10,7 +10,7 @@ h1{
   font-size: 20 mm;
   text-align: center;
 }
-body {
+.register-body {
     background-color:aliceblue;
     background-repeat: no-repeat;
     background-attachment: fixed;
