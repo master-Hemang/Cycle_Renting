@@ -1,4 +1,4 @@
 # Cycle_Renting
 
-hi there
-we tried to create a web app which function on reducing gap between customer and service providers.
+Hi there
+We tried to create a web application which functions on reducing gap between customer and service providers.
